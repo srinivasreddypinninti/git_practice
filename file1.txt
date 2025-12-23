@@ -3,3 +3,9 @@ This file 1
 # my first feat : addition two numbers commit 
 
 # feat: sub of two numbers
+
+# feat: Mul of two numbers
+
+# feat: Div of two numbers
+
+# this change is for git commit --amend
