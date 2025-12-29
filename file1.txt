@@ -4,8 +4,12 @@ This file 1
 
 # feat: sub of two numbers
 
+<<<<<<< HEAD
 # feat: Mul of two numbers
 
 # feat: Div of two numbers
 
 # this change is for git commit --amend
+=======
+# feat: Mul of two numbers
+>>>>>>> 2b3ca6c33ab6af7a6567a65e8e29b7148a51fc9b
